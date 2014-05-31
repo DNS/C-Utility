@@ -1,6 +1,4 @@
 
-
-
 #ifndef _TYPEMACRO_H
 #define _TYPEMACRO_H
 
@@ -94,4 +92,7 @@ typedef VOID void;
 }
 #endif
 
+
 #endif
+
+
